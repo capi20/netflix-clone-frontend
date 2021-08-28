@@ -1,6 +1,6 @@
 ## NetFlix Clone
 
-This is a clone project of Netflix. To render movies and shows, you have to paste you TMDB API key in request.js file. You can create your free TMBD account by below link
+This is a clone project of Netflix. To render movies and shows, you have to paste you TMDB API key in request.js file. You can create your free TMDB account by below link
 
 https://www.themoviedb.org/
 
