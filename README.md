@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## NetFlix Clone
+
+This is a clone project of Netflix. To render movies and shows, you have to paste you TMDB API key in request.js file. You can create your free TMBD account by below link
+
+https://www.themoviedb.org/
 
 ## Available Scripts
 
