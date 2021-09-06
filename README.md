@@ -1,8 +1,11 @@
 ## NetFlix Clone
 
-This is a clone project of Netflix. I have used TMDB API to render movie and show posters. You just have to paste your TMDB API key in request.js file. You can create your free TMDB account by below link
+This is a clone project of Netflix. Tools used
 
-https://www.themoviedb.org/
+- React
+- [TMDB API](https://www.themoviedb.org/) to render shows and movies poster
+
+You just have to paste your TMDB API key in request.js file and you're good to go.
 
 ## Available Scripts
 
